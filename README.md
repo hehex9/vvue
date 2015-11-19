@@ -6,5 +6,6 @@ A simple vim syntax highlighting for Vue components
 
 ### Install with [pathogen](https://github.com/tpope/vim-pathogen)
 
-cd ~/.vim/bundle
-git clone https://github.com/pcxiong/vvue.git
+1. cd ~/.vim/bundle
+
+2. git clone https://github.com/pcxiong/vvue.git
